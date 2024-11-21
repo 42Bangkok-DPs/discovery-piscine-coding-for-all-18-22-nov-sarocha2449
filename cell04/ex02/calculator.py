@@ -1,5 +1,5 @@
 x = int(input("Give me the first number: "))
-y = int(input("Give me the seaond number: "))
+y = int(input("Give me the second number: "))
 print("Thank you!")
 บวก = x+y
 ลบ = x-y
